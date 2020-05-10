@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "LightningMod",
+  "id": "lightningmod",
   "version": "${version}",
   "name": "LightningMod",
   "authors": [

@@ -3,6 +3,7 @@
   "package": "takaranoao.lightningmod.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "MaxinLightningEntity"
   ],
   "client": [
   ],
